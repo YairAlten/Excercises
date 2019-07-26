@@ -7,5 +7,5 @@
 
 # Exercise 2 - Create a file in Markdown
 - [ ] Visit http://stackedit.io/
-- [ ]Start making you README.md in this editor
+- [ ] Start making you README.md in this editor
 - [ ] Save this file to you repo 
