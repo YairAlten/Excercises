@@ -9,3 +9,7 @@
 - [ ] Visit http://stackedit.io/
 - [ ] Start making you README.md in this editor
 - [ ] Save this file to you repo 
+
+# Exercise 3 - First Commit
+- [ ] Add the file to you repo
+- [ ] Commit and Push
